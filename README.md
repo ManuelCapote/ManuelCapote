@@ -1,20 +1,10 @@
 - 👋 Hi, I’m @ManuelCapote
 
 
-I'm a Developer, Product Manager, Photographer, Content creator, Freelancer, and a Forever Student. 
-I love to build and create things, thus my love for programming. Since I was a kid, and my dad got 
-his first IBM Computer, I have sat there and learned all I could. At the age of 15, I built my first 
-WebSite, using HTML, with some flash Templates in Adobe Dreamweaver. Then in University classes like 
-Logic & Algorithm, C, Pascal, C++, Matlab, Circuit Design, and Technical Drawing became my favorites. 
-It's been some time since I started working as a Product Manager, developing skills like Team Leadership, 
-and learning how to reach customer satisfaction, at every level I can imagine. Two years ago, I have 
-decided that it was time to start working on my Web Developer Dream again. And So I did. 
-
-Now my goal is to pursue a full-time job position as a Front End Web Developer. 
-To put at service my skills, and at the same time to develop new ones, all with 
-the idea to become an expert in the field, and the best employee I can be.
-
-If you want to know more about my Web-Dev Journey, check my Instagram @AlexKpot
+I’m a Self-taught Front End Web Developer, I love to build and create things, and I feel passionate about clean code and simple style, thus my love for Programming. I have strong experience in HTML, CSS, and JavaScript, as well as JavaScript frameworks like ReactJs and main CSS frameworks like Bootstrap and SemanticUi..
+I am familiar with Design concepts and implementations, due to my past as Front End Dev and Designer for Cycle Limited. I have used tools like Figma, Sketch, Adobe XD among others to implement UI/UX concepts on Websites, and always having Usability as one of the key principles. 
+I have several years of experience as a Team Leader and Project Manager. For the past five years I have managed a team of 5 people, each of them in a different country, so I am very comfortable working remotely. 
+ 
 
 <!---
 ManuelCapote/ManuelCapote is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
